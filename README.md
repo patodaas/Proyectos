@@ -3,7 +3,7 @@ In this repo I will be uploading my personal projects as I practice different th
 
 <ol>
   <li>
-    # RetroSnakeGame_in_C++_Raylib
+    <h1>  RetroSnakeGame_in_C++_Raylib </h1>
     In this folder you will find a simple snake game made up with C++ and Raylib library, made by following a tutorial explaining each step and line code. In the youtube link bellow you will find all the explanation.
     Finished in 02/28/2026
     </br>
