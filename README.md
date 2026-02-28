@@ -1,5 +1,5 @@
 # Personal Projects
-In this repo I will be uploading my personal projects as I practice different things in C and C++, each work will be separated by folders wich their respective name
+In this repo I will be uploading my personal projects as I practice different things in C and C++, each work will be separated by folders with their respective name
 
 <ol>
   <li>
